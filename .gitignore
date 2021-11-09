@@ -1,0 +1,19 @@
+# -*- mode: gitignore; -*-
+*~
+\#*\#
+.\#*
+
+# NextFlow
+log.*
+*.log
+*_log.*
+.nfs*
+.nextflow*
+work/
+false/
+.DS_Store
+*.pyc
+
+# files
+*.bam
+*.csv
